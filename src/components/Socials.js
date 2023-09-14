@@ -2,7 +2,7 @@ import { useRef } from "react";
 import { useGsapSocialReveal } from "../hooks/gsap";
 
 const data = [
-  { id: 1, title: "Facebook", url: "https://www.facebook.com/profile.php?id=100011923021505" },
+  { id: 1, title: "Instagram", url: "https://www.instagram.com/deep_ds_14/" },
   { id: 2, title: "GitHub", url: "https://github.com/deepkumar05" },
   { id: 3, title: "LinkedIn", url: "https://www.linkedin.com/in/krdeepanshu/" },
   { id: 4, title: "Twitter", url: "https://twitter.com/Deepans07930899" },
